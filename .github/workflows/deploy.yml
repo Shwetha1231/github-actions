@@ -26,4 +26,4 @@ docker build -t shwethat/nginx-html:latest .
       - name: Push Docker Image to Docker Hub
 run: |
 docker push shwethat/nginx-html:latest
-________________________________________
+
